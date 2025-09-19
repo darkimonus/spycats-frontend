@@ -1,0 +1,20 @@
+### Frontend Task: Spy Cats Dashboard (Next.js)
+
+In addition to the backend, you are required to build a simple frontend using **Next.js**. The goal is to create a small, focused dashboard that allows Spy Cat Agency (SCA) agents to manage spy cats more easily.
+
+**Requirements:**
+
+- Build a **Spy Cats Management Page** that includes:
+    - A **list of all spy cats** (retrieved from your backend API).
+    - A **form to add a new spy cat** (Name, Years of Experience, Breed, Salary).
+    - An **edit option** to update a cat’s Salary.
+    - A **delete option** to remove a spy cat.
+
+**Technical Requirements:**
+
+- Use Next.js
+- You may use any component library or TailwindCSS for UI.
+- Ensure the app handles API errors gracefully (e.g., shows an error message if the backend validation fails).
+- The focus is on **clean, functional UI and clear API integration**—styling can be minimal.
+
+**Note:** You are not required to implement the full Missions/Targets flow on the frontend for this assessment; the focus is solely on the **Spy Cats** CRUD functionality.
